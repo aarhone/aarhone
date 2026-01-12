@@ -1,15 +1,15 @@
-# Hi there, I'm Aaryan Holkar 👋
+# Hi there, I'm Aaryan Holkar :)
 
 I'm a **Senior Software Engineer** with over 5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in architecting high-performance backend services with a strong focus on reliability, scalability, and maintainability.
 
-## 🚀 About Me
+## About Me
 
-- 🔹 **Languages:** Java, Python
-- 🔹 **Specialty:** Microservices Architecture
-- 🔹 **Focus Areas:** Distributed systems, backend optimization, cloud platform engineering
-- 🔹 **Passionate About:** Collaborative problem-solving, mentoring, and delivering proactive technical solutions
+- **Languages:** Java, Python
+- **Specialty:** Microservices Architecture
+- **Focus Areas:** Distributed systems, backend optimization, cloud platform engineering
+- **Passionate About:** Collaborative problem-solving, mentoring, and delivering proactive technical solutions
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
@@ -19,7 +19,7 @@ I'm a **Senior Software Engineer** with over 5 years of experience designing and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced cloud-native and design patterns
 - AI/ML integration into backend systems

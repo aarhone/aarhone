@@ -1,4 +1,4 @@
-# Hi there, I'm Aarhone 👋
+# Hi there, I'm Aaryan Holkar 👋
 
 I'm a **Senior Software Engineer** with over 5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in architecting high-performance backend services with a strong focus on reliability, scalability, and maintainability.
 
@@ -15,27 +15,19 @@ I'm a **Senior Software Engineer** with over 5 years of experience designing and
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
 
 ## 🌱 Currently Learning
 
-- Advanced cloud-native patterns
-- Observability & SRE best practices
+- Advanced cloud-native and design patterns
 - AI/ML integration into backend systems
-
-## 📈 GitHub Stats
-
-![Aarhone's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarhone&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarhone&layout=compact&theme=github_dark)
 
 ## 📫 Get in Touch
 
 - [GitHub Profile](https://github.com/aarhone)
-- [LinkedIn](#) <!-- You can replace '#' with your actual LinkedIn URL -->
-- [Personal Website](#) <!-- If you have a personal site, replace '#' -->
+- [LinkedIn](https://www.linkedin.com/in/aaryan-holkar-4a4504318/)
 
 ---
 

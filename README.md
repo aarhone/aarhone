@@ -1,11 +1,11 @@
 # Hi there, I'm Aaryan Holkar :)
 
-I'm a **Senior Software Engineer** with over 5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in architecting high-performance backend services with a strong focus on reliability, scalability, and maintainability.
+A **Senior Software Engineer** with over 5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in building high-performance backend services with a strong focus on reliability, scalability, and maintainability.
 
-## About Me
+## Area of expertise
 
-- **Languages:** Java, Python
-- **Specialty:** Microservices Architecture
+- **Languages & Frameworks:** Java, Spring Boot, Spring Data JPA, Python, FastAPI, SQL
+- **Specialty:** Microservices Architecture, System Design, AWS
 - **Focus Areas:** Distributed systems, backend optimization, cloud platform engineering
 - **Passionate About:** Collaborative problem-solving, mentoring, and delivering proactive technical solutions
 

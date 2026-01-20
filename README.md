@@ -26,7 +26,7 @@ I'm a **Senior Software Engineer** with over 5 years of experience designing and
 
 ## 📫 Get in Touch
 
-- [GitHub Profile](https://github.com/aarhone)
+- aaryan_holkar@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/aaryan-holkar-4a4504318/)
 
 ---

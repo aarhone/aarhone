@@ -2,7 +2,7 @@
 
 A **Senior Software Engineer** with over 5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in building high-performance backend services with a strong focus on reliability, scalability, and maintainability.
 
-## Area of expertise
+## Area of Expertise
 
 - **Languages & Frameworks:** Java, Spring Boot, Spring Data JPA, Python, FastAPI, SQL
 - **Specialty:** Microservices Architecture, System Design, AWS

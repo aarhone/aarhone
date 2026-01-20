@@ -4,7 +4,7 @@ A **Senior Software Engineer** with over 5 years of experience designing and sca
 
 ## Area of Expertise
 
-- **Languages & Frameworks:** Java, Spring Boot, Spring Data JPA, Python, FastAPI, SQL
+- **Languages & Frameworks:** Java, Spring Boot, Python, JavaScript, SQL
 - **Specialty:** Microservices Architecture, System Design, AWS
 - **Focus Areas:** Distributed systems, backend optimization, cloud platform engineering
 - **Passionate About:** Collaborative problem-solving, mentoring, and delivering proactive technical solutions

@@ -1,13 +1,13 @@
-# Hi there, I'm Aaryan Holkar :)
+# Hie there, I'm Aaryan Holkar :)
 
-A **Senior Software Engineer** with over 5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in building high-performance backend services with a strong focus on reliability, scalability, and maintainability.
+A **Senior Software Engineer** with over 5.5 years of experience designing and scaling robust distributed systems and cloud platforms. My expertise lies in building backend services with a strong focus on reliability, scalability, and maintainability.
 
 ## Area of Expertise
 
-- **Languages & Frameworks:** Java, Spring Boot, Python, JavaScript, SQL
+- **Languages & Frameworks:** Java, Spring Boot, Python, SQL
 - **Specialty:** Microservices Architecture, System Design, AWS
-- **Focus Areas:** Distributed systems, backend optimization, cloud platform engineering
-- **Passionate About:** Collaborative problem-solving, mentoring, and delivering proactive technical solutions
+- **Focus Areas:** Distributed systems, Backend optimisation, Cloud platform engineering
+- **Passionate About:** Collaborative problem-solving, Mentoring, and Delivering proactive technical solutions
 
 ## Tech Stack
 
@@ -22,14 +22,14 @@ A **Senior Software Engineer** with over 5 years of experience designing and sca
 ## Currently Learning
 
 - Advanced cloud-native and design patterns
-- AI/ML integration into backend systems
+- Gen AI integration into backend systems
 
 ## 📫 Get in Touch
 
-- aaryan_holkar@outlook.com
-- [LinkedIn](https://www.linkedin.com/in/aaryan-holkar-4a4504318/)
+- aaryanholkar29@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/aaryanholkarhere/)
 
 ---
 
-> “Striving for clean code and scalable architectures—one system at a time.”
+> “Striving for clean code and scalable architectures — one system at a time.”
 
